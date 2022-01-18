@@ -1,3 +1,5 @@
+[![pub package](https://img.shields.io/pub/v/badge.svg)](https://pub.dartlang.org/packages/badge)
+
 # workshop-flutter-initiation
 ### Installatation
 Android Studio :
