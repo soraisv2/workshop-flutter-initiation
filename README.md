@@ -12,3 +12,8 @@ install the IDE [android-studio](https://developer.android.com/studio#downloads)
     export PATH="$PATH:`pwd`/flutter/bin"
 ```
 
+If you are using VScode just install the extension of flutter
+
+
+### Create your first application
+On VScode  press (cmd+shift+p) and type flutter new project
