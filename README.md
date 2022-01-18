@@ -1,10 +1,8 @@
 # workshop-flutter-initiation
 
-## Table of contents
 
-Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 
-> * [Installation](#Installatation)
+
 
 # Installatation
 
