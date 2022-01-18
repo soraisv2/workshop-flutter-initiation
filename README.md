@@ -17,5 +17,5 @@ If you are using VScode just install the extension of flutter
 
 ### Create your first application
 On VScode  press:
- Markup : * Mac OS cmd+shift+p
-          * Linux Ctrl+Shift+P
+    * Mac OS cmd+shift+p
+    * Linux Ctrl+Shift+P
