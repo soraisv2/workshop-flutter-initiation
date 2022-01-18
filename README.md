@@ -1,10 +1,5 @@
 # workshop-flutter-initiation
 
-## 1• Installatation
-
-for mac :
-
-
 ## Table of contents
 
 Use for instance <https://github.com/ekalinin/github-markdown-toc>:
@@ -26,3 +21,7 @@ Use for instance <https://github.com/ekalinin/github-markdown-toc>:
 >   * [Contributing / Reporting issues](#contributing--reporting-issues)
 >   * [License](#license)
 >   * [About Nuxeo](#about-nuxeo)
+
+# 1 - Installatation
+
+# for mac :
