@@ -20,4 +20,6 @@ On VScode  press:
 * Mac OS cmd+shift+p
 * Linux Ctrl+Shift+P
 
-And type ```flutter``` and select new appliation
+Type ```flutter``` and select new project->app
+
+
