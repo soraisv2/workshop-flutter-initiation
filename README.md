@@ -17,8 +17,8 @@ If you are using VScode just install the extension of flutter
 
 ### Create your first application
 On VScode  press:
-* for Mac   : OS cmd+shift+p
-* for Linux : Ctrl+Shift+P
+* for Mac OS : Cmd+shift+p
+* for Linux  : Ctrl+Shift+P
 
 Type ```flutter``` and select new project->app
 
