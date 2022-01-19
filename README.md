@@ -22,4 +22,9 @@ On VScode  press:
 
 Type ```flutter``` and select new project->app
 
+Congratulations, you've created your first appication in flutter.
+
+### Documentation
+
+*Flutter widgets : [widget](https://docs.flutter.dev/development/ui/widgets/material)
 
