@@ -19,4 +19,5 @@ If you are using VScode just install the extension of flutter
 On VScode  press:
 * Mac OS cmd+shift+p
 * Linux Ctrl+Shift+P
+
 And type ```flutter``` and select new appliation
